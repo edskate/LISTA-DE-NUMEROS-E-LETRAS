@@ -1,0 +1,31 @@
+body {
+  width: 1;
+  height: 1;
+  margin: 7%;
+  text-align: center;
+  border: 3px solid;
+  text-shadow: 2px 3px 4px;
+  border-radius: 13px 14px 15px;
+}
+
+ol,
+li {
+  box-shadow: 3px 4px 5px;
+  background-color: blueviolet;
+  text-shadow: 2px 3p 4px #3800ff00;
+}
+div {
+  text-shadow: inset 2px 3px 4px;
+  color: green;
+  background-color: bisque;
+  border-radius: 14px 14px 14px;
+  border: 2px solid;
+}
+.box1 {
+  box-shadow: 2px 3px 4px;
+  text-align: center;
+}
+img{
+    box-shadow: 10px 10px 10px ;
+    
+}
